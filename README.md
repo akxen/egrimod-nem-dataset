@@ -29,3 +29,8 @@ For further information regarding the contents of each csv file please refer to 
 Geospatial datasets obtained from Geoscience Australia are made available under the following license:
 
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/) © Commonwealth of Australia (Geoscience Australia) 2017. With the exception of the Commonwealth Coat of Arms, and where otherwise noted, this product is provided under a Creative Commons Attribution 4.0 International Licence. [http://creativecommons.org/licenses/by/4.0/legalcode](http://creativecommons.org/licenses/by/4.0/legalcode)
+
+Population datasets obtained from the Australian Bureau of Statistics are made available under the following license:
+
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+[http://creativecommons.org/licenses/by/4.0/legalcode](http://creativecommons.org/licenses/by/4.0/legalcode)
